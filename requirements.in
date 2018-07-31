@@ -1,0 +1,5 @@
+aiohttp
+sanic
+aiocache[redis]
+aioredis
+pyjsparser
