@@ -52,6 +52,7 @@ async def get_comments():
 app.blueprint(api_v0)
 app.static("/", "f1comments/static/index.html")
 
+
 def main():
     app.run(
         host="0.0.0.0",

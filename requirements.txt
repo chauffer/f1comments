@@ -15,7 +15,6 @@ hiredis==0.2.0            # via aioredis
 httptools==0.0.11         # via sanic
 idna==2.7                 # via yarl
 multidict==4.3.1          # via aiohttp, yarl
-pyjsparser==2.5.2
 sanic==0.7.0
 ujson==1.35               # via sanic
 uvloop==0.11.0            # via sanic
